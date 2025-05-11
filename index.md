@@ -5,13 +5,12 @@ title: Final Chronicle
 
 ## About Me
 
-Hi, I'm [Your First Name], a student interested in [short blurb—e.g., game design, storytelling, building things, etc.].  
-This project was part of my final quest in [course name], and it reflects what I’ve learned about [theme—e.g., creativity, code, perseverance].
-
+Hi, I'm Amelie, a student interested in modeling card games through code.  
+This project was part of my final quest in my computer programming class, and it reflects what I’ve learned about Python basics so far.
 ## About My Project
 
-**Project Title:** *[Name it!]*   
-**One-line pitch:** [“A game where you…” or “A project that lets you…”]
+**Project Title:** *Blackjack*   
+**One-line pitch:** A game where you try to beat the dealer and get a hand closest, but not over 21
 
 > Curious about what I’d do differently or recommend to others? Read my final thoughts here: [Final Tip & Takeaways](_posts/2025-05-23-tip.md)
 
