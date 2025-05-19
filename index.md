@@ -14,7 +14,8 @@ This project was part of my final quest in my computer programming class, and it
 
 > Curious about what I’d do differently or recommend to others? Read my final thoughts here: [Final Tip & Takeaways](_posts/2025-05-23-tip.md)
 
-🛠️ [Source Code (GitHub)](https://colab.research.google.com/drive/1axzfSW84-LcW3m_hJvz99h6iis1ISwDv#scrollTo=ZF_peQ3Qbaus)  
+🛠️ [Python Code (GitHub)](https://colab.research.google.com/drive/1axzfSW84-LcW3m_hJvz99h6iis1ISwDv#scrollTo=ZF_peQ3Qbaus)  
+🛠️ [Ruby Code (GitHub)](https://colab.research.google.com/drive/1DdGTnzUnzItLXDwOTJ0Wce4qgzZ2M0oA#scrollTo=wx8V9PnQbsvS)  
 
 
 ## Dev Log
